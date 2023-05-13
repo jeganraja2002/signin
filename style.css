@@ -1,0 +1,59 @@
+p{position:absolute;
+left:637px;
+top:105px}
+
+.raja{position:absolute;
+left:637px;
+top:160px;
+padding:9px 126px 13px 10px}	
+
+.jegan{position:absolute;
+left:637px;
+top:220px;
+padding:9px 126px 13px 10px}	
+
+.raj{top:270px;
+color:darkblue;}
+
+.guna{position:absolute;
+left:637px;
+top:330px;
+padding:12px 124px 13px 122px;
+border-radius:100px;
+background-color:darkblue;
+border:1px solid darkblue;
+color:white;
+font-size:20px}
+
+.akash{width:100px;
+color:lightgray;
+margin-top:290px;
+margin-left:637px;
+padding-right:40px;}
+
+
+.sri{width:95px;
+border-color:lightgray;
+margin-top:-10px;
+margin-left:800px;
+padding-left:35px;}
+
+
+.mokka{margin-top:282px;
+margin-left:154px}
+
+
+.kawin{position:absolute;
+left:637px;
+top:414px;
+padding:12px 61px 13px 70px;
+border-radius:100px;
+background-color:white;
+border:1px solid black;
+color:black;
+font-size:20px}
+
+.mari{
+margin-left:630px;
+margin-top:70px
+}
